@@ -1,0 +1,39 @@
+********************************************************************************
+
+List Info:
+Name:	John Grant
+Date of Birth:	May 7, 2002
+Major:	CS/BS
+Year:	Junior
+
+Name:	Christopher Irish
+Date of Birth:	September 5, 2002
+Major:	CS/BA
+Year:	Sophomore
+
+Name:	Claire Lupton
+Date of Birth:	June 31, 2003
+Major:	CS/BS
+Year:	Sophomore
+
+Name:	Steiger Michael
+Date of Birth:	September 24, 2002
+Major:	CS/BS
+Year:	Sophomore
+
+Name:	William Osborne
+Date of Birth:	March 28, 2003
+Major:	CS/BS
+Year:	Sophomore
+
+Name:	Dustin Sullivan
+Date of Birth:	November 26, 1999
+Major:	CIS/BS
+Year:	Junior
+
+Name:	Diego Velez
+Date of Birth:	September 17, 2002
+Major:	CS/BS
+Year:	Sophomore
+
+********************************************************************************
